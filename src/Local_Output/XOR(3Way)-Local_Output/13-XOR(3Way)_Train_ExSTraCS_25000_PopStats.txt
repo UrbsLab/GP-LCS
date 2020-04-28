@@ -1,0 +1,48 @@
+Performance Statistics:------------------------------------------------------------------------
+Training Accuracy	Testing Accuracy	Best Training Accuracy	Best Testing Accuracy	RMSE Training	RMSE Testing	Best RMSE Training	Best RMSE Testing	Training Coverage	Testing Coverage
+0.975625	0.955625	1.0	1.0	0	0	0	0	1.0	1.0
+
+Population Characterization:------------------------------------------------------------------------
+MacroPopSize	MicroPopSize	Generality
+916	1000	0.7623499999999968
+
+SpecificitySum:------------------------------------------------------------------------
+N0	N1	N2	N3	N4	N5	N6	N7	N8	N9	N10	N11	N12	N13	N14	N15	N16	M0P1	M0P2	M0P3
+0	0	16	0	4	1	14	741	4	39	4	7	31	1	966	22	0	941	973	989
+
+AccuracySum:------------------------------------------------------------------------
+N0	N1	N2	N3	N4	N5	N6	N7	N8	N9	N10	N11	N12	N13	N14	N15	N16	M0P1	M0P2	M0P3
+0.0	0.0	8.609375	0.0	2.1	0.52	7.571875	553.239121580926	2.1	21.230624999999996	2.09375	3.7231249999999996	16.662499999999998	0.52875	735.198049475892	11.895624999999999	0.0	721.9629261930748	739.1525441567433	747.614299475892
+
+AttributeTrackingGlobalSums:----Tracking not applied!-----------------------------------------------
+N0	N1	N2	N3	N4	N5	N6	N7	N8	N9	N10	N11	N12	N13	N14	N15	N16	M0P1	M0P2	M0P3
+0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Run Time(in minutes):------------------------------------------------------------------------
+Global Time	58.360159516334534
+Matching Time	0.7125986178716024
+Covering Time	0.0
+Deletion Time	0.22207947572072348
+Subsumption Time	0.0
+Selection Time	0.10119880437850952
+Crossover Time	0.09517019192377726
+Mutation Time	0.01231913169225057
+Attribute Tracking-Feedback Time	0.0
+Expert Knowledge Time	0.0
+Output File Time	0.0005388140678405761
+Initialization Time	0.003051149845123291
+Add Classifier Time	9.519078985850017
+Evaluation Time	10.950259645779928
+Rule Compaction Time	0.0
+
+CorrectTrackerSave:------------------------------------------------------------------------
+1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
+GlobalEpochStatus:------------------------------------------------------------------------
+True
+ParetoFronts:------------------------------------------------------------------------
+Incomplete Epoch:
+0.21945562911364858	
+70.4	
+Complete Epoch:
+1.00000000000145	
+800.0	

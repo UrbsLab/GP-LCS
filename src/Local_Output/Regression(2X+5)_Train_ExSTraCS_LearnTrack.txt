@@ -1,2 +1,0 @@
-Epoch	Explore_Iteration	MacroPopSize	MicroPopSize	RMSE	Accuracy_Estimate	RuleCount	TreeCount	AveGenerality	ExpRules	Time(min)
-1	100	1000	1000	40774.456945491176	2.4524556557068255e-05	0	1000	0.8701499999999995	0.0	1.1185072700182597

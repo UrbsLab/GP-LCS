@@ -1,0 +1,48 @@
+Performance Statistics:------------------------------------------------------------------------
+Training Accuracy	Testing Accuracy	Best Training Accuracy	Best Testing Accuracy	RMSE Training	RMSE Testing	Best RMSE Training	Best RMSE Testing	Training Coverage	Testing Coverage
+0.5587500000000001	0.49	0.563125	0.490625	0	0	0	0	1.0	1.0
+
+Population Characterization:------------------------------------------------------------------------
+MacroPopSize	MicroPopSize	Generality
+960	999	0.547047047047051
+
+SpecificitySum:------------------------------------------------------------------------
+N0	N1	N2	N3	N4	N5	N6	N7	N8	N9	N10	N11	N12	N13	N14	N15	N16	M0P1	M0P2	M0P3
+972	998	972	999	75	991	0	999	3	0	2	0	0	45	0	998	998	0	998	0
+
+AccuracySum:------------------------------------------------------------------------
+N0	N1	N2	N3	N4	N5	N6	N7	N8	N9	N10	N11	N12	N13	N14	N15	N16	M0P1	M0P2	M0P3
+538.6561287644896	552.7685882029897	538.6053685063545	553.3073382029897	41.888381875651866	549.0510882029897	0.0	553.3073382029897	1.6168749999999998	0.0	1.068125	0.0	0.0	25.046061062145192	0.0	552.7817132029897	552.7817132029897	0.0	552.7692132029897	0.0
+
+AttributeTrackingGlobalSums:----Tracking not applied!-----------------------------------------------
+N0	N1	N2	N3	N4	N5	N6	N7	N8	N9	N10	N11	N12	N13	N14	N15	N16	M0P1	M0P2	M0P3
+0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Run Time(in minutes):------------------------------------------------------------------------
+Global Time	287.1113097469012
+Matching Time	1.6911646246910095
+Covering Time	0.0
+Deletion Time	0.5239935596783956
+Subsumption Time	0.0
+Selection Time	0.2636567234992981
+Crossover Time	0.44717299143473305
+Mutation Time	0.06406867106755575
+Attribute Tracking-Feedback Time	0.0
+Expert Knowledge Time	0.0
+Output File Time	0.012389449278513591
+Initialization Time	0.003538235028584798
+Add Classifier Time	51.574715129534404
+Evaluation Time	74.8535810748736
+Rule Compaction Time	1.9180774688720704e-05
+
+CorrectTrackerSave:------------------------------------------------------------------------
+0	0	1	0	1	0	1	1	0	1	0	0	1	1	1	1	1	0	0	0	0	0	0	1	0	0	1	0	0	1	0	1	1	0	0	0	1	1	0	1	0	0	0	1	1	0	1	1	0	1	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	1	0	0	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	0	
+GlobalEpochStatus:------------------------------------------------------------------------
+True
+ParetoFronts:------------------------------------------------------------------------
+Incomplete Epoch:
+0.16348915473660441	
+52.071005917159766	
+Complete Epoch:
+0.3096911166434483	
+101.0	

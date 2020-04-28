@@ -1,0 +1,1 @@
+Epoch	Explore_Iteration	MacroPopSize	MicroPopSize	RMSE	Accuracy_Estimate	RuleCount	TreeCount	AveGenerality	ExpRules	Time(min)
