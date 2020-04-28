@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+untitled/
+.idea/
+venv/
+*.pyc
+.DS_Store
+virtualenv/
